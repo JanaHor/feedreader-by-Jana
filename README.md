@@ -13,8 +13,11 @@ Whether you work in an organization that uses test-driven development or in an o
 ## Steps required to successfully run the application
 
 Download repository/zip file.
+
 Open index.html in your browser.
+
 Results show which tests are implemented.
+
 Green = OK / Red = failure
 
 # Tests implemented in this Project
